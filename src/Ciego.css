@@ -1,0 +1,17 @@
+.ojo{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 100px;
+    flex-direction: column;
+    
+    
+}
+
+.zzz{
+    font-size: 3.2rem;
+}
